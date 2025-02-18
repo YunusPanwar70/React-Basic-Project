@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+  list-style: none;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 25px;
+  height: 150px;
+}
+
+li {
+  height: 150px;
+  width: 150px;
+  background-color: #eee;
+  text-align: center;
+}
