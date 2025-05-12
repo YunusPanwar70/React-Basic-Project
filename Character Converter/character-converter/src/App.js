@@ -1,10 +1,10 @@
-import CharacterConverter from './components/CharacterConverter';
+import CharacterCoverterUI from './components/CharacterCoverterUI';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <CharacterConverter />
+      <CharacterCoverterUI />
     </div>
   );
 }

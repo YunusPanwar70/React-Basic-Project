@@ -1,0 +1,30 @@
+.hold-popup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.hold-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.hold-button:hover {
+    background-color: #0056b3;
+}
+
+.popup-box {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    background-color: lightyellow;
+    border-radius: 6px;
+    font-size: 16px;
+}
